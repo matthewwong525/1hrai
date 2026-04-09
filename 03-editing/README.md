@@ -6,6 +6,45 @@ Automatically transform raw 1-hour recordings into polished, upload-ready YouTub
 ## Current Status
 Documented — pipeline spec defined, no automation built yet
 
+## Strategy & Research
+
+### Editing Philosophy
+
+- "Editing is not the hero — your story is. The purpose of editing is to support your message, not distract from it." — Film Booth
+- For tutorials: focus on pacing, not flashiness. The goal is clarity and momentum.
+- Every edit should either remove friction (dead air, mistakes) or add engagement (visual variety, emphasis).
+
+### Retention-Optimized Editing Checklist
+
+These techniques directly impact the algorithm's key metric — Average View Duration:
+
+- **Jump cuts:** Remove all pauses between sentences to tighten pacing. This is the single highest-impact edit for tutorial content.
+- **B-roll breaths:** Insert 3-5 second visual breaks every 60-90 seconds during explanation-heavy sections. For screen recording: switch to webcam, show a diagram, or display a key stat.
+- **Speed ramping:** Accelerate mundane footage 2-4x (installing packages, waiting for loads), return to normal for key moments.
+- **Visual change every 15-25 seconds:** Angle, zoom, cutaway, text overlay. Videos maintaining 50%+ average view duration are 3x more likely to receive recommendations.
+- **Sound design:** Subtle SFX on transitions, ambient layers, dynamic music enhance flow and reduce fatigue. Whoosh sounds on cuts, pop sounds on text reveals.
+- **The Ken Burns Zoom:** Slow 10-15% scale increase over 8-10 seconds keeps static shots feeling dynamic.
+- **The Text Punch:** 2-4 bold words synced with key stats or takeaways.
+
+### CTA Placement Rules
+
+| Timing | CTA Type | Example |
+|--------|----------|---------|
+| **0-60 sec** | Light/preview | "Stay until the end for X" |
+| **30-70% mark** | Contextual (after delivering value) | "If that tip was helpful, hit like" |
+| **Last 15-20 sec** | Strong primary | "Click the link," "Watch next video" |
+
+Mid-roll CTAs get more clicks than end-roll since not everyone finishes. Place CTAs right after solving a pain point — viewers are most receptive when they just got value.
+
+### End Screen & Playlist Strategy
+
+- Start end screen sequence **20-30 seconds** before video ends
+- Link to relevant next video, subscribe button, and/or playlist
+- Optimized end screens increase channel watch time by up to 34%
+- Average session time rises from 9:12 to 14:05 with optimized end screens
+- Use **Series Playlists** for "Day X" videos — tells the algorithm they should be watched in order
+- Strategic playlists extend session watch time, which is one of the top algorithm signals
+
 ## System Spec
 
 ### Pipeline Overview

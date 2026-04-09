@@ -1,35 +1,53 @@
 # YouTube OS — 1HR AI
 
-An AI-powered YouTube automation system. Matthew spends 1 hour recording himself teaching people how to use AI to grow their business. Everything else is automated: editing, thumbnails, descriptions, uploading, analytics, clip extraction, and ideation for the next session.
+Matt spends 1 hour recording himself teaching people how to use AI to grow their business. Everything else is automated. Building in public — each video covers the pipeline itself.
+
+## How to Answer Questions
+
+1. Identify which pipeline stage(s) the question relates to using the routing table below
+2. Read the relevant README(s) before answering — they contain strategy research, system specs, and project decisions
+3. For cross-cutting questions (algorithm, monetization, storytelling), check `youtube-channel-guide.md`
+4. Never answer from memory alone when stage-specific context exists in a README
+
+## Routing Table
+
+| Topic | Read first |
+|-------|-----------|
+| Channel strategy, audience, positioning, branding | `00-overview/README.md` + reference files in `00-overview/` |
+| Video topics, session planning, content calendar | `01-ideation/README.md` |
+| Recording setup, OBS, checklist | `02-recording/README.md` |
+| Editing pipeline, silence removal, chapters, captions | `03-editing/README.md` |
+| Shorts, clips, vertical video | `04-clips/README.md` |
+| Thumbnails, CTR, design | `05-thumbnails/README.md` |
+| Publishing, titles, SEO, descriptions, tags | `06-publishing/README.md` |
+| Analytics, metrics, retention, reporting | `07-analytics/README.md` |
+| Growth, cross-posting, distribution, community | `08-growth/README.md` |
+| YouTube algorithm, monetization, scripting, storytelling | `youtube-channel-guide.md` |
+| End-to-end workflow | All stage READMEs |
 
 ## Pipeline Stages
 
 | Stage | Folder | Status |
 |-------|--------|--------|
-| Channel Strategy | [00-overview/](00-overview/README.md) | Planned |
-| Ideation | [01-ideation/](01-ideation/README.md) | Planned |
+| Channel Strategy | [00-overview/](00-overview/README.md) | Documented |
+| Ideation | [01-ideation/](01-ideation/README.md) | Documented |
 | Recording | [02-recording/](02-recording/README.md) | Documented |
 | Editing | [03-editing/](03-editing/README.md) | Documented |
-| Clips | [04-clips/](04-clips/README.md) | Planned |
-| Thumbnails | [05-thumbnails/](05-thumbnails/README.md) | Planned |
-| Publishing | [06-publishing/](06-publishing/README.md) | Planned |
-| Analytics | [07-analytics/](07-analytics/README.md) | Planned |
-| Growth | [08-growth/](08-growth/README.md) | Planned |
-
-## The 1-Hour Workflow
-
-1. **Before recording**: Pull today's topic from the ideation pipeline, review the session plan
-2. **Record** (~1 hour): Matthew teaches live, covering the topic with screen shares and demos
-3. **After recording**: Everything from here is automated —
-   - Raw footage is auto-edited (silence removal, chapters, captions)
-   - A short summary clip is extracted
-   - Thumbnail is generated
-   - Video is uploaded to YouTube with optimized title, description, and tags
-   - Analytics feed back into ideation for the next session
+| Clips | [04-clips/](04-clips/README.md) | Documented |
+| Thumbnails | [05-thumbnails/](05-thumbnails/README.md) | Research Complete |
+| Publishing | [06-publishing/](06-publishing/README.md) | Documented |
+| Analytics | [07-analytics/](07-analytics/README.md) | Documented |
+| Growth | [08-growth/](08-growth/README.md) | Documented |
 
 ## Project Conventions
 
 - Each pipeline stage lives in its own numbered folder
-- Each folder has a `README.md` with: Goal, Current Status, System Spec, Tools/APIs, Scripts
+- Each folder has a `README.md` with: Goal, Current Status, Strategy & Research, System Spec, Tools/APIs, Scripts
 - Scripts and automation code go inside the relevant stage folder
 - Raw media files are NOT stored in this repo
+
+## Keeping Knowledge Current
+
+- When you learn something new from Matt, update the relevant stage README (not this file)
+- Keep stage statuses in the table above in sync with actual project state
+- Strategy & Research sections in READMEs are the source of truth for each stage's context

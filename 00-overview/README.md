@@ -14,13 +14,16 @@ Documented — strategy defined, reference guides created.
 - **Differentiator:** Matt builds the entire YouTube pipeline in public using AI, then teaches what he learned. Viewers get real results, not theory.
 - **Format:** 1 hour raw recording per session, edited down to 15-30 min Hub videos + Shorts
 - **Series identity:** "Day X" numbering gives the channel a built-in narrative arc and progression
+- **Episode format:** Every video is the next chapter in an ongoing journey — viewers come back to see what happens next, not just to learn a tip. Think LockedInPoker's bankroll challenge, but for building an AI-powered YouTube pipeline from scratch.
 
 ### Content Pillars
 
-1. **AI Tools in Action** — Live demos of AI tools solving real business problems (email, marketing, ops)
-2. **Building in Public** — Behind-the-scenes of building the YouTube OS pipeline itself
-3. **AI Workflow Automation** — Connecting AI tools into automated systems (editing, thumbnails, publishing)
-4. **Small Business Growth** — How to use AI to grow revenue, save time, and compete with larger companies
+Each pillar is a *storyline*, not just a subject — it has its own ongoing narrative thread with stakes, progress, and setbacks:
+
+1. **AI Tools in Action** — Live demos of AI tools solving real business problems. The storyline: can Matt find the right tool stack before running out of patience?
+2. **Building in Public** — The meta-journey of building the YouTube OS pipeline itself. This is the primary narrative spine — each episode advances or hits a wall.
+3. **AI Workflow Automation** — Connecting AI tools into automated systems. The storyline: which automations actually save time vs. which ones are rabbit holes?
+4. **Small Business Growth** — Using AI to grow revenue, save time, and compete. The storyline: real results tracking — what's actually moving the needle?
 
 ### Brand Identity
 
@@ -28,7 +31,7 @@ Documented — strategy defined, reference guides created.
 - **Channel banner:** 2560x1440 px upload, safe area 1546x423 px center — include value proposition, design mobile-first
 - **Visual consistency:** Same colors, fonts, style across banner, profile, thumbnails, intros — channels with consistent branding grow subscribers 1.8x faster
 - **Thumbnail template:** "Day X" series look with blue primary (trust/tech), yellow/orange accent text. See `05-thumbnails/README.md`
-- **Tone:** Direct, practical, no hype — show the work, share the numbers
+- **Tone:** Direct, practical, no hype — show the work, share the numbers. Raw and journey-driven: "figuring it out in public" energy. Viewers should feel like they're watching someone build something real, not a scripted tutorial.
 
 ### Quick Reference Targets
 
@@ -45,6 +48,15 @@ Documented — strategy defined, reference guides created.
 | End screens | Start 20-30 sec before end |
 | Tags | 10-15, primary keyword first |
 | Best posting time | Tue-Thu, 2-4 PM EST |
+
+### Storytelling Inspiration
+
+**LockedInPoker model:** A poker creator documenting their bankroll challenge — every video is an episode with real stakes, genuine reactions, and a "what happens next?" hook. Applied to 1HR AI:
+- The bankroll = the YouTube channel itself. Can Matt build a fully automated pipeline in public?
+- Every session has a goal that might fail. Viewers tune in to see if it works.
+- Setbacks and frustrations are content, not things to hide.
+- Raw authenticity > polished production. The rough edges are what make it feel real.
+- Open loops across episodes drive return viewership: "Last time the editing pipeline broke — today I'm trying to fix it."
 
 ### The 1-Hour Workflow
 

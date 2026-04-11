@@ -23,6 +23,13 @@ Documented — SEO and publishing strategy defined, no automation built yet
 - "Stop [Manual Process] — Use [AI Tool] Instead" — problem/solution
 - "[Number] [AI Tool] Tricks That Save [Time/Money]" — listicle
 
+**Journey/episode title formulas:**
+- "I Tried to [Goal] in One Hour — Day X" — stakes + time pressure
+- "[Thing] Broke Everything — Day X" — conflict-driven
+- "Finally Automating [Stage] — Day X" — resolution/progress
+- "This Was Supposed to Work — Day X" — vulnerability + curiosity
+- "Day X: [Dramatic Moment]" — when the moment is the draw
+
 ### Description Optimization
 
 - **First 125-157 characters are critical** — visible before "Show more" on desktop/mobile. Make them count.
@@ -33,11 +40,13 @@ Documented — SEO and publishing strategy defined, no automation built yet
 - Include links: related videos, playlists, affiliate links (with disclosure), social media
 - **Template structure:**
   1. Compelling summary (125 chars)
-  2. What you'll learn (bullet points)
-  3. Chapters/timestamps
-  4. Links and resources mentioned
-  5. Affiliate disclosure
-  6. Social links
+  2. **Series context** — "Previously: [what happened last episode]. Today: [this episode's challenge]." One line connecting this video to the ongoing journey.
+  3. What you'll learn (bullet points)
+  4. Chapters/timestamps
+  5. Links and resources mentioned
+  6. Affiliate disclosure
+  7. Social links
+- **Series Playlists:** Use YouTube Series Playlists for "Day X" videos — tells the algorithm they should be watched in order and reinforces the sequential narrative. Link to the playlist in every description.
 
 ### Tags Strategy
 

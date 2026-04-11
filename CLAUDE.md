@@ -19,6 +19,20 @@ Use today's date to construct the path (e.g. `2025-04-11.md`). This file contain
 3. For cross-cutting questions (algorithm, monetization, storytelling), check `youtube-channel-guide.md`
 4. Never answer from memory alone when stage-specific context exists in a README
 
+## Creative Direction & Storytelling Vibe
+
+Every video is an **episode in an ongoing journey**, not a standalone tutorial. Inspired by LockedInPoker's bankroll challenge format — viewers come back to see what happens next, not just to learn a tip.
+
+**5 Core Storytelling Principles:**
+
+1. **Journey arc** — every video is a chapter in the larger story of building an AI-powered YouTube pipeline from scratch. "Day X" isn't just numbering — it's episode progression with continuity.
+2. **Real stakes & vulnerability** — show failures, setbacks, and the messy middle. When something breaks, that's the content. Don't hide struggle — lean into it.
+3. **Micro-stories with tension/resolution** — every piece of content (long-form, Short, clip) should have its own dramatic arc: a problem, a struggle, a payoff.
+4. **Real-time decision narration** — show the thinking process, not just the polished outcome. "I'm trying X because Y... okay that didn't work, let me try Z" is more compelling than a clean walkthrough.
+5. **Raw authenticity** — rough but real beats polished and fake. The production style should feel like you're watching someone figure it out live, because you are.
+
+When generating titles, descriptions, hooks, thumbnails, or any viewer-facing content, filter through these principles. The question isn't "is this educational?" — it's "does this feel like the next episode of a story I'm following?"
+
 ## Routing Table
 
 | Topic | Read first |

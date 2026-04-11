@@ -13,6 +13,8 @@ Documented — pipeline spec defined, no automation built yet
 - "Editing is not the hero — your story is. The purpose of editing is to support your message, not distract from it." — Film Booth
 - For tutorials: focus on pacing, not flashiness. The goal is clarity and momentum.
 - Every edit should either remove friction (dead air, mistakes) or add engagement (visual variety, emphasis).
+- **Edit for narrative arc, not just clarity.** The finished video should feel like an episode with tension → struggle → resolution. Structure: cold open with the most dramatic moment (the breakthrough or the failure), then flashback to the start, build through the messy middle, and land on the resolution.
+- **Preserve authentic moments** — don't cut frustration, surprise, or genuine reactions. These are the emotional beats that make viewers feel something. Only cut dead air and true tangents.
 
 ### Retention-Optimized Editing Checklist
 
@@ -35,6 +37,16 @@ These techniques directly impact the algorithm's key metric — Average View Dur
 | **Last 15-20 sec** | Strong primary | "Click the link," "Watch next video" |
 
 Mid-roll CTAs get more clicks than end-roll since not everyone finishes. Place CTAs right after solving a pain point — viewers are most receptive when they just got value.
+
+### Running Threads & Episode Continuity
+
+The edit should reinforce that each video is part of a larger story:
+
+- **Cold open hook** — Pull the most dramatic moment forward (the "oh no" or "yes!!" moment) before rewinding to the start
+- **"Previously on..." recap** — Brief text overlay or voiceover referencing the last episode (5-10 seconds max)
+- **Callbacks** — When something connects to a past episode, add a brief text overlay or picture-in-picture referencing it (e.g., "Day 5: this same thing broke")
+- **Next episode tease** — Before the end screen, drop a hint about what's coming: "Next time, I'm tackling [X]..." This creates an open loop.
+- **Progress indicators** — Occasional text overlays showing pipeline progress ("Editing: automated. Thumbnails: still manual.") to remind viewers of the larger journey
 
 ### End Screen & Playlist Strategy
 

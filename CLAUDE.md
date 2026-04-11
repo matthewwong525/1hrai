@@ -44,7 +44,7 @@ Use today's date to construct the path (e.g. `2025-04-11.md`). This file contain
 | Recording | [02-recording/](02-recording/README.md) | Documented |
 | Editing | [03-editing/](03-editing/README.md) | Documented |
 | Clips | [04-clips/](04-clips/README.md) | Documented |
-| Thumbnails | [05-thumbnails/](05-thumbnails/README.md) | Research Complete |
+| Thumbnails | [05-thumbnails/](05-thumbnails/README.md) | Prompt Generator Built |
 | Publishing | [06-publishing/](06-publishing/README.md) | Documented |
 | Analytics | [07-analytics/](07-analytics/README.md) | Documented |
 | Growth | [08-growth/](08-growth/README.md) | Documented |

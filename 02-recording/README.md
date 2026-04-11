@@ -17,6 +17,16 @@ Since 1HR AI is primarily screen recording with webcam overlay:
 - **Camera is secondary.** Webcam or phone in a mount works fine — the screen share is the star. If upgrading: Sony ZV-E10 II is the top dedicated pick.
 - **Lighting matters for webcam.** Face a window for free, or use a single LED key light at 45 degrees (Elgato Key Light Air ~$130).
 
+### Recording for Narrative: Capture the Real Moments
+
+The journey format lives or dies in the recording. The raw footage is the raw story.
+
+- **Don't cut when things break** — errors, crashes, and confusion are the content. The audience came for the real experience, not a polished walkthrough.
+- **Show the loss before the win** — record the troubleshooting, the wrong approaches, the frustration. The resolution only lands if we felt the struggle.
+- **Capture genuine reactions** — surprise when something works, frustration when it doesn't, excitement when a breakthrough happens. These moments are what viewers remember and share.
+- **Narrate your thinking in real time** — "I'm trying X because Y... okay that didn't work, here's what I think went wrong..." This pulls viewers into the decision-making process.
+- **Reference the journey** — briefly mention what happened last session, what you're building toward, and what's at stake today. This turns a standalone recording into an episode.
+
 ### Recording Technique for Retention
 
 The raw recording directly determines the edited video's retention. Structure sessions for engagement:
@@ -44,15 +54,17 @@ The raw recording directly determines the edited video's retention. Structure se
 - Use multiple browser tabs/apps to create visual variety
 - Verbally tease upcoming sections: "Coming up, I'll show you the trick that saves 3 hours..."
 
-**Story Structure for Tool Tutorials (Dan Harmon Circle):**
-1. You: Introduce the viewer's current situation (manual process, wasted time)
-2. Need: The problem pushing them to try something new
-3. Go: Open the AI tool, start the demo
-4. Search: Work through challenges, show real troubleshooting
-5. Find: The breakthrough moment — it works
-6. Take: Acknowledge the learning curve or cost
-7. Return: Show the streamlined final workflow
-8. Change: The payoff — before vs. after comparison
+**Story Structure — Journey Episode Format:**
+
+The Dan Harmon circle still applies, but framed as an episode in the larger journey:
+
+1. **Previously on...** — Quick context: where are we in the journey? What happened last time? What's the open loop?
+2. **Today's stakes** — What are we trying to accomplish? Why might it fail? This is the episode's central tension.
+3. **Go** — Dive in. Open the tool, start building.
+4. **The messy middle** — Work through challenges. Show real troubleshooting, wrong turns, genuine reactions. This is the heart of the episode.
+5. **The breakthrough (or the failure)** — Did it work? If yes, celebrate it. If no, own it — and tease that you'll tackle it next time.
+6. **What changed** — The payoff: before vs. after. What did we learn? How does this move the larger project forward?
+7. **Next time...** — Open a loop for the next episode. What's coming? What's still broken? What will you try next?
 
 ### Music & Sound Effects
 

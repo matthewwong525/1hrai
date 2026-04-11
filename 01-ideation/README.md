@@ -13,7 +13,7 @@ Documented — strategy and research complete, no automation built yet
 | Type | Purpose | Frequency | 1HR AI Examples |
 |------|---------|-----------|-----------------|
 | **Help** | Answer questions, solve problems | Weekly (highest volume) | "How to use Claude for email marketing," "ChatGPT vs Claude for small business" |
-| **Hub** | Build deeper engagement | Monthly | Full workflow builds, "Day X" deep dives, step-by-step automation guides |
+| **Hub** | Build deeper engagement — journey episodes | Monthly | "Day X" episodes advancing the pipeline story, building new automation, tackling failures from last session |
 | **Hero** | Go viral, reach new audiences | Quarterly | "I automated my entire YouTube channel with AI," ultimate guides, collabs |
 
 **Recommended ratio:** 1 Hero : 3 Hub : 12+ Help pieces
@@ -51,7 +51,15 @@ Matt records 1 hour raw. The editing pipeline should target these outputs:
 
 ### Session Planning: Hooks + Structure
 
-**Plan the hook before recording.** 10 proven hook types for AI tutorials:
+**Before recording, find the stakes.** Every episode needs a conflict or challenge. Ask:
+- What could go wrong today? (That's the tension.)
+- What am I trying to accomplish that I'm not sure will work?
+- What broke last time that I need to fix?
+- What's the "will he or won't he?" question for this episode?
+
+If there's no obvious stakes, create them: set a time constraint, attempt something ambitious, or revisit a previous failure.
+
+**Plan the hook before recording.** Hook types for AI tutorials:
 
 1. **Big Reveal** — Show the AI output/result first, then explain how
 2. **Problem Statement** — "Most small businesses waste 10 hours/week on X. Here's how AI fixes that."
@@ -59,6 +67,9 @@ Matt records 1 hour raw. The editing pipeline should target these outputs:
 4. **Shocking Stat** — "This AI tool saved me 40 hours last month"
 5. **Before/After** — Show the manual process, then the automated version
 6. **Pattern Interrupt** — 3-5 rapid cuts in first 12 seconds showing different outputs
+7. **Journey Continuation** — "Last time, X broke. Today I'm fixing it..." (leverages open loops from prior episodes)
+8. **Ticking Clock** — "I only have one hour to get this working..." (built into the format)
+9. **Vulnerability Hook** — "I've been stuck on this for a week. Let's see if today's the day."
 
 **Story structure for tool tutorials:** Use the Dan Harmon circle (see `02-recording/README.md`). Present the problem, demo the solution, show the transformation.
 
@@ -69,6 +80,7 @@ Matt records 1 hour raw. The editing pipeline should target these outputs:
 - **Leave 1-2 flex slots per month** for trending/reactive content (AI tool launches)
 - **Batch film** when possible — record 2-3 sessions back-to-back with different topics
 - **Pipeline:** Idea -> Session Plan -> Record -> Edit -> Thumbnail -> Publish -> Analyze -> feed back to Idea
+- **Maintain narrative threads:** Track ongoing storylines across episodes (e.g., "the editing pipeline saga," "the thumbnail experiment"). Reference past episodes and tease what's coming next. Viewers who follow a thread become loyal subscribers.
 
 ## System Spec
 - Pull trending AI topics from news, Twitter/X, Reddit, and YouTube search trends

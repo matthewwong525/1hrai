@@ -39,6 +39,9 @@ The Shorts algorithm is **completely separate** from long-form (decoupled since 
 - "One tip that saves 3 hours" — focused single-insight clips
 - Quick tool walkthroughs at 2x speed with captions
 - Controversial takes or surprising AI outputs
+- **Journey micro-dramas** — The moment something breaks, the moment it finally works, the genuine reaction when a result is unexpected. Each Short = a self-contained mini-story with its own tension and resolution, not just a tip.
+- **Cliffhanger clips** — End on the tension, not the resolution: "And then the whole pipeline crashed..." (drives to full video)
+- **Progress check-ins** — 30-second "here's where the project stands" updates that make followers feel invested
 
 ### Jenny Hoyos's Shorts Formula Applied to AI Clips
 
@@ -47,6 +50,7 @@ The Shorts algorithm is **completely separate** from long-form (decoupled since 
 - Use "But/Then" storytelling: "I asked Claude to write my emails... but then it did something unexpected"
 - Close on maximum emotion — viewers judge based on how they feel at the end
 - Power words for hooks: "free," "secret," "banned," "one prompt," "replaced"
+- **Journey-style hooks:** "This was supposed to be easy..." / "Day 15 and nothing works..." / "I didn't expect THAT to happen" — adapted from LockedInPoker's dramatic tension style (e.g., "FULL HOUSE in Massive Pot?!!!") but for AI/tech: "Claude Just BROKE My Entire Pipeline?!" / "The Automation Finally Worked..."
 
 ### Shorts as Growth Funnel
 

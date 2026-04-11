@@ -61,6 +61,13 @@ Your email list bypasses algorithm changes entirely. Email subscribers convert a
 - Consider a Discord or membership community once you have a core audience (100+ engaged regulars)
 - The "Building in Public" angle naturally creates community — viewers feel invested in the pipeline's progress
 
+**Journey-driven community engagement:**
+- The ongoing narrative naturally creates community investment — viewers feel like they're *part* of the story, not just watching a tutorial
+- Use Community Tab for "what should I build next?" polls — let the audience influence the journey's direction
+- Share setbacks and wins between episodes: "The thumbnail automation just failed spectacularly — fix attempt coming in Day X"
+- **Open loops across videos drive return viewership** — end each video with unresolved tension, then deliver the resolution next time. Viewers come back because they need to know what happened.
+- Comment engagement becomes story-driven: "Who predicted this would break?" / "Should I try approach A or B next?"
+
 ## System Spec
 - Cross-post clips to Twitter/X, LinkedIn, TikTok, and Instagram Reels
 - Generate platform-specific captions and hashtags for each clip

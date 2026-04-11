@@ -1,3 +1,10 @@
+---
+name: ship
+description: Push the current branch, create a PR against main, resolve any merge conflicts, and merge. Run the full flow without asking for confirmation at each step.
+---
+
+# Ship
+
 Push the current branch, create a PR against main, resolve any merge conflicts, and merge. Run the full flow without asking for confirmation at each step.
 
 ## Steps

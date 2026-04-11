@@ -109,8 +109,7 @@ Auto-select the single best title. Prioritize titles that: (1) feel like the nex
 
 Read these in parallel (skip any already read in Step 1):
 - Read today's daily file from `daily/YYYY-MM-DD.md` using today's date. If no file exists, check the most recent file in `daily/`.
-- Read `05-thumbnails/README.md` for thumbnail research and best practices.
-- Read `00-overview/README.md` for brand identity and channel positioning.
+- Read `05-thumbnails/research.md` for thumbnail research and best practices.
 
 ## Step 6: Distill the Visual Story
 

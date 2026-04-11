@@ -2,6 +2,16 @@
 
 Matt spends 1 hour recording himself teaching people how to use AI to grow their business. Everything else is automated. Building in public — each video covers the pipeline itself.
 
+## Daily Context
+
+Before starting any work, read today's daily file from the **main branch** (not the worktree):
+
+```
+/Users/matthewwong/Documents/1hrai/daily/<YYYY-MM-DD>.md
+```
+
+Use today's date to construct the path (e.g. `2025-04-11.md`). This file contains Matt's goals, priorities, and notes for the session. If the file doesn't exist yet, proceed without it.
+
 ## How to Answer Questions
 
 1. Identify which pipeline stage(s) the question relates to using the routing table below

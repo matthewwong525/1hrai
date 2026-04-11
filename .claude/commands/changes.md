@@ -20,22 +20,9 @@ Analyze repo changes and produce everything needed for the next video: the best 
 4. **Launch Agent 1 (Headline) and Agent 2 (Thumbnail) in parallel:**
 
    ### Agent 1 — Headline
-   Give this agent the full context from steps 2-3 and these instructions:
-   - Generate 10-15 title candidates
-   - Every title MUST include "Day {number}" (e.g., "Day 5")
-   - All titles under 60 characters
-   - Group candidates by style: Curiosity Gap, Bold Claim, Educational/How-To, Build-in-Public
-   - Auto-select the single best title — the one with the strongest curiosity gap that accurately represents what was built
-   - Output the chosen title and a one-line justification
+   Give this agent the full context from steps 2-3 and the headline skill instructions from `.claude/skills/headline/SKILL.md`. The agent should follow that skill's process (Steps 2-4) to generate and select the best title.
 
-   **Title rules:**
-   - Under 60 characters (never truncated on any device)
-   - Front-load the primary keyword in the first 40 characters
-   - Natural language, compelling, clear value proposition
-   - Never misleading — YouTube penalizes high CTR + low retention
-   - The title should COMPLEMENT the thumbnail, never repeat it
-   - Avoid generic/hype words ("INSANE", "CRAZY", "YOU WON'T BELIEVE")
-   - Keep it real — Matt's brand is authentic building-in-public
+   All titles must follow the format: `Day X, [headline], IN ONE HOUR`
 
    ### Agent 2 — Thumbnail Prompt
    Give this agent the full context from steps 2-3, the thumbnail research from `05-thumbnails/README.md`, and these instructions:

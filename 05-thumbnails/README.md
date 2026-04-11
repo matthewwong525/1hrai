@@ -327,4 +327,17 @@ The thumbnail and title should **complement, never repeat.** Together they creat
 - Puppeteer (alternative: HTML template to image approach)
 
 ## Scripts
-_None yet._
+
+### `/thumbnail` skill (`.claude/commands/thumbnail.md`)
+Claude Code skill that reads today's `daily/` file and generates a Nano Banana prompt.
+
+**Usage:** `/thumbnail 5` (where 5 is the day number)
+
+**What it does:**
+1. Reads today's daily file to understand what the video covers
+2. Reads thumbnail research + channel branding for context
+3. Picks the best-fitting thumbnail framework for today's topic
+4. Generates a ready-to-paste Nano Banana prompt (natural language, not tag soup)
+5. Outputs iterative refinement prompts and an A/B test variant idea
+
+**Also generates thumbnails as part of:** `/changes` skill (headline + thumbnail + talking points together).

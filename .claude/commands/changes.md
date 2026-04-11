@@ -41,14 +41,17 @@ Analyze repo changes and produce everything needed for the next video: the best 
    Give this agent the full context from steps 2-3, the thumbnail research from `05-thumbnails/README.md`, and these instructions:
    - Generate a detailed image generation prompt for nanobanana
    - The prompt MUST start with: "I'm attaching a picture of my face to use in this thumbnail."
-   - The thumbnail MUST feature Matt's face (from the attached photo) with a genuine expression (curiosity, excitement, or "aha" moment — NOT exaggerated YouTube shock face)
-   - Choose one of these proven frameworks: Face + Bold Text, Reaction, Before/After, Stats + React, or Cut-Out Graphics
-   - Follow the 60-30-10 color rule: blue primary (trust/tech), yellow or orange accent, white for contrast
-   - The composition should follow Z-pattern: face/subject upper-left, context upper-right, text area lower-left, bottom-right empty
-   - Include 3-5 words of bold thumbnail text that creates a curiosity gap with the title (complements, never repeats)
-   - The prompt should describe: scene/background, Matt's expression and pose, lighting, color palette, mood, composition, and any props or screen elements
-   - Also output the thumbnail text overlay separately (the 3-5 words to be placed on the image)
-   - Specify that the image should be 1280x720, high contrast, readable at mobile size (168x94px)
+   - **Style: Raw & authentic** (inspired by lockedinpoker) — the thumbnail should look like a real moment from Matt's life, NOT a polished graphic. Think raw vlog screenshot with bold text slapped on top. Real setting (desk, laptop, room), selfie/phone camera quality, casual framing.
+   - Matt's face with a **genuine, raw expression** matching the honest emotion of the day — NOT a YouTube performance face. Think: staring at a screen in disbelief, laughing, frustrated focus, genuine surprise at a result.
+   - **Simple layout**: Matt on one side, big bold text on the other or overlapping. Two elements max. No flowcharts, no icons, no decorative elements.
+   - **1-3 words MAX** of bold thumbnail text — chunky sans-serif, white or bright with thick dark outline, slightly imperfect/tilted placement. A number, reaction word, or short hook (e.g., "1,000 SUBS?!", "IT WORKS", "$0", "WTF").
+   - **Green** for growth/subscriber milestones, **white/yellow** for emphasis, **red** for urgency/setbacks — ONE accent color per thumbnail
+   - Include "Day {number}" as main text or small episode label
+   - Text creates a curiosity gap with the title (complements, never repeats)
+   - Show real screens when relevant (laptop showing Claude Code, YouTube analytics, subscriber counts)
+   - Keep bottom-right clear (YouTube duration overlay). 1280x720, readable at 168x94px mobile size.
+   - This is chapter {day number} in the journey to 1,000 subscribers using AI.
+   - Also output the thumbnail text overlay separately
 
 5. **Launch Agent 3 (Talking Points)** — after Agents 1 and 2 are done, give this agent:
    - The chosen headline from Agent 1

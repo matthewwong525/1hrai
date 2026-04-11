@@ -6,8 +6,7 @@ Generate a Nano Banana prompt for today's YouTube thumbnail. The argument is the
 
 2. **Read today's context** — run these in parallel:
    - Read today's daily file from the `daily/` folder (try `daily/YYYY-MM-DD.md` using today's date — check both current year and prior year in case of naming convention). If no file exists for today, check the most recent file in `daily/`.
-   - Read `05-thumbnails/README.md` for thumbnail research and best practices.
-   - Read `00-overview/README.md` for brand identity and channel positioning.
+   - Read `05-thumbnails/research.md` for thumbnail research and best practices.
    - `git log --oneline --all --since="3 days ago"` for very recent commits to supplement the daily file.
 
 3. **Distill the visual story** — from the daily file and git context, identify:

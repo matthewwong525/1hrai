@@ -25,7 +25,7 @@ Analyze repo changes and produce everything needed for the next video: the best 
    All titles must follow the format: `Day X, [headline], IN ONE HOUR`
 
    ### Agent 2 — Thumbnail Prompt
-   Give this agent the full context from steps 2-3, the thumbnail research from `05-thumbnails/README.md`, and these instructions:
+   Give this agent the full context from steps 2-3, the thumbnail research from `05-thumbnails/research.md`, and these instructions:
    - Generate a detailed image generation prompt for nanobanana
    - The prompt MUST start with: "I'm attaching a picture of my face to use in this thumbnail."
    - **Style: Raw & authentic** (inspired by lockedinpoker) — the thumbnail should look like a real moment from Matt's life, NOT a polished graphic. Think raw vlog screenshot with bold text slapped on top. Real setting (desk, laptop, room), selfie/phone camera quality, casual framing.
